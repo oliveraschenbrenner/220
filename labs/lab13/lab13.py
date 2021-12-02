@@ -1,5 +1,5 @@
 """
-Name: Oliver Aschenbrenner
+Name: Oliver aschenbrenner
 lab13.py
 """
 
